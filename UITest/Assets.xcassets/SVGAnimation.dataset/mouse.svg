@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Keyshape -->
+<svg xmlns="http://www.w3.org/2000/svg" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" viewBox="0 0 64 64" style="white-space: pre;">
+    <style>
+@keyframes a0_t { 0% { transform: translate(29.5px,32px); } 100% { transform: translate(29.5px,21.5px); } }
+    </style>
+    <path id="mouse" fill="#dddddd" stroke="#000000" d="M17.5,0C17.5,15.7401,17.5,28.5,0,28.5C-17.5,28.5,-17.5,15.7401,-17.5,0C-17.5,-15.7401,-17.5,-28.5,0,-28.5C17.5,-28.5,17.5,-15.7401,17.5,0Z" transform="translate(29.5,34.5)"/>
+    <path d="M0,0L0,-14.5" stroke="#000000" fill="none" stroke-linecap="square" transform="translate(29.5,32)" style="animation: 1s linear infinite both a0_t;"/>
+</svg>
